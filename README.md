@@ -1,12 +1,9 @@
-# Xplorer Club Website
+# Gcnetwiz Landing Page
 [![](https://img.shields.io/badge/Built%20with%3A-react--static-e0c06c)](https://github.com/react-static/react-static)
 <br/>
 
-**Static-content landing page for Xplorer Club.**
+**Static-content landing page for GcNetWiz.**
 
-
-## Live Demo
-https://xplorer-club-demo.vercel.app/
 
 
 ## Scripts
